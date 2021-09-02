@@ -1,4 +1,5 @@
-# Better to do app
+# Better to-do app
 ## Features
 * Ability to add and remove tasks.
-* Uses firebase as a storage
+* Email and password authentication with firebase
+* Uses firstore as a storage
